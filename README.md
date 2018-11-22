@@ -1,4 +1,4 @@
-# Java BootCamp base folders layout
+# Welcome to the Java Bootcamp for future Globers!
 
 Please, use this repository as a base for your training. 
 The idea is to fork this project so everyone use the same folder structure for the exercises.
