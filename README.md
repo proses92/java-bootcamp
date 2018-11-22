@@ -1,16 +1,9 @@
 # Java BootCamp base folders layout
 
-Please, use this repository as a base for you training phase. The idea is to
-fork this project so everyone use the same folder structure for the
-exercises.
-
-It's extremelly important to keep the key points easy to be verified by
-the reviewers, so **don't mix the key points with the rest of the
-exercises**
-
+Please, use this repository as a base for your training. 
+The idea is to fork this project so everyone use the same folder structure for the exercises.
 
 # Material
-
   
 ## Index
 
@@ -32,13 +25,13 @@ exercises**
 
 9. [Learning Days](#learning-days)
 
-    * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts-2-days)
+    * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts)
 
     * [Topic 1: Maven](#topic-1-maven-1-day)
 
     * [Topic 2: Services](#topic-2-services-2-days)
     
-    * [Topic 3: Test Driven Development](#topic-3-test-driven-development-2-days)
+    * [Topic 3: Unit Testing](#unit-testing)
 
     * [Topic 4: SQL - MySql](#topic-4-sql---mysql-2-days)
     
@@ -48,33 +41,29 @@ exercises**
 
 ## Objective
 
-This course teaches the basics of Java development applications.
+This course teaches the basics of Java development and the tools and frameworks that surround it.
 
 → [index](#index)
 
 ## Who Should Attend
 
-The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on OOP is desired, though.
+The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: outside Globant candidates with a basic knowledge on OOP and a lot of energy!
 
 → [index](#index)
 
 ## Duration
 
-Four weeks total.
-
-Three weeks for guided learning and one week for app development. 
+Four weeks total, where we are going to mix reading, coding practice, chat discussions and on-site talks. The target is, after 4 weeks of all this, each candidate would have a final project up and running. 
 
 → [index](#index)
 
 ## Technical Assistance
 
-You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
+You can contact other bootcamp participants or any available tutor if you need technical assistance. We will have a chat room to discuss all together.
 
 ## Performance Measurement
 
-1. Code review after each practice.
-
-2. Checkpoint completion after Learning stage with your assigned tutor
+When you feel you are good to go with a practice code, post a PR and ask tutors to review. This is to avoid getting to the very end of the training with no feedback. The idea is to keep things going dinamically, and being constantly in contact. 
 
 → [index](#index)
 
@@ -92,11 +81,11 @@ Developers that move faster than average can go ahead and complete as much exerc
 2. The IDE to use is [Eclipse for Java Developers](http://www.eclipse.org/downloads/). [
 Eclipse IDE for Java EE Developers Recommended](http://www.eclipse.org/downloads/packages/).
 
-3. Slack java-bootcamp-globant account + headset (audio calls)
+3. Slack java-bootcamp-globers account
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
-5. Fork this repo https://github.com/jdavisonc/java-bootcamp/ to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
+5. Fork this repo https://github.com/marcelorosas/java-bootcamp/ to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
 → [index](#index)
 
@@ -106,28 +95,26 @@ Eclipse IDE for Java EE Developers Recommended](http://www.eclipse.org/downloads
 
 The bootcamp is organized in the following way:
 
-1. The first three weeks will be used for intensive self learning. Each topic will have reading and practices parts. Tutors will be available to answer technical questions on a given chat room. 
+each bootcamper needs to read about the topics and jump into the coding excercises. Slack channel will be used to discuss with tutors and co-bootcampers about both theory and practice, and each on-site talk we are going through the outcome of Slack channel discussions, emphasizing about those topics that are causing more pain for all.
 
-2. The next week will be used to develop an application following a life process.
+This slack account would be used for technical assistance: https://java-bootcamp-globers.slack.com
 
-3. This slack account would be use for technical assistance: https://java-bootcamp-globant.slack.com
-
-    Bootcamp JAVA - #general
+    Bootcamp Java Globant Uruguay - #general
 Every person participating in the bootcamp is present here (students and tutors). Here is the place to ask for technical assistance!
 
-4. [Team play](http://www.dummies.com/how-to/content/ten-qualities-of-an-effective-team-player.html) is encouraged but the work will be evaluated per person.
+[Team play](http://www.dummies.com/how-to/content/ten-qualities-of-an-effective-team-player.html) is encouraged but the work will be evaluated per person.
 
-5. The instructions will be vague as they generally are in real life projects. You must look for support and guidance from your tutor and teammates.
+The instructions will be vague as they generally are in real life projects. You must look for support and guidance from your tutor and teammates.
 
-6. All code and documentation must be in English.
+All code and documentation must be in English.
 
-7. Code must adhere to this [eclipse code formatter](https://github.com//sebastian-garofalo/java-bootcamp/blob/master/formatter.xml). See importing instructions in this [link](http://www.avajava.com/tutorials/lessons/how-do-i-share-my-code-formatting-settings-with-another-user.html?page=2).
+Code needs to be clear and indented properly. You can adhere to this [eclipse code formatter](https://github.com//sebastian-garofalo/java-bootcamp/blob/master/formatter.xml). See importing instructions in this [link](http://www.avajava.com/tutorials/lessons/how-do-i-share-my-code-formatting-settings-with-another-user.html?page=2).
 
 → [index](#index)
 
 ## Proposed Test Applications
 
-The test application will consist in a REST API for a functional shopping cart. The minimum features to be completed are:
+The test application will consist in a REST API for a functional shopping cart. It should include as much as you can on this feature list:
 
   - User registration and login.
   - List products.
@@ -143,28 +130,27 @@ Each day you will grab the fundamentals of the key building blocks for usual Jav
 On each learning day you will have to:
 
 1. ####Read:####
-We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
+We will provide you with documentation so you can have a background reference, guide and examples to complete the following practice.
 
 2. ####Practice:####
-You will implement the previously gathered knowledge in simple coding activities.
-Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
+You will implement the previously gathered knowledge in simple coding activities. You will do the effort to have the best results and be ready to apply this knowledge in the final project. Each of this steps are not going to be evaluated though, it's the learning mechanism to get the bests results at the end of the training.
 
 3. ####Commit:####
-You will commit all your code on a daily basis, when you finish your practice.
+You will commit all your code as soon as you finish your practice. No rush, but ideally enough commits to have questions to discuss through slack and for the next talk.
 
 ### Introduction
 
-  - [JVM](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1s1). See: "Java Technology and the JVM" and "Describing Garbage Collection"
+  - [JVM](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1s1). See: "Java Technology and the JVM"
 
-# Topic 0: Introduction to Object Oriented Programming Concepts (2 days)
+# Topic 0: Introduction to Object Oriented Programming Concepts
 
 ## Reading:
 
-1. Beginners: Java Concepts [basic tutorial](http://docs.oracle.com/javase/tutorial/java/concepts/) (in case you need it!)
+1. Java Concepts [basic tutorial](http://docs.oracle.com/javase/tutorial/java/concepts/)
 
-2. Beginners: Have fun with [Introduction to Java Programming](http://www.ibm.com/developerworks/java/tutorials/j-introtojava1/). Do as much you can.
+2. Have fun with [Introduction to Java Programming](http://www.ibm.com/developerworks/java/tutorials/j-introtojava1/). Do as much as you want.
 
-3. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns). Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
+3. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns). Don't go crazy on this reading, the idea is to know they exist, and when we discuss about them, we'll see why they exist. Examples are singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder, but there are zillions, so take it easy.
 
 ## Extra documentation:
 
@@ -178,17 +164,13 @@ You will commit all your code on a daily basis, when you finish your practice.
 3. Create a proxy example for database accesor clases.
 4. Create a builder example for database connection.
 
-## Key Points:
-
-3
-
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
-# Topic 1: Maven (1 day)
+# Topic 1: Maven
 
 ## Reading:
 1. [What is Maven?](http://maven.apache.org/what-is-maven.html)
@@ -201,13 +183,9 @@ Commit your practice code.
 
 (It is assumed that Maven is already installed and working).
 
-1. Create and build a simple Maven project:
+1. Create and build a simple Maven project.
 2. Customize the Maven project by adding new dependencies: log4j, junit.
 3. Create a simple unit test under src/test/java and run it. Then skip the unit test by property or by adding the skipping test configuration to your pom.xml file.
-
-## Key Points:
-
-1,2,3
 
 ## Commit:
 
@@ -215,7 +193,7 @@ Commit your practice code.
 
 → [index](#index)
 
-# Topic 2: Services (2 days)
+# Topic 2: Services
 
 ## Reading:
 1. [How to create services in Java](https://web.archive.org/web/20160414080344/http://www.makinggoodsoftware.com/2009/11/17/how-to-create-services-in-java/)
@@ -225,25 +203,21 @@ Commit your practice code.
 ## Practice:
 
 1. Create a shopping cart API spec
-2. Implement the previous shopping cart using TDD.
+2. Implement the previous shopping cart.
 3. Document services.
 4. Design a UserService for CRUD operations.
 5. Implement and document previous UserService.
 
 Note: Do not implement JPA or ORM. Services should return in memory data only.
 
-## Key Points:
-
-2,4,7
-
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
 
-# Topic 3: Test Driven Development (2 days)
+# Topic 3: Unit Testing
 
 ## Reading:
 1. JUnit (https://junit.org/junit4/cookbook.html)
@@ -264,7 +238,7 @@ Commit your practice code.
 → [index](#index)
 
 
-# Topic 4: SQL - MySql (2 days)
+# Topic 4: SQL - MySql
 
 ## Reading:
 1. [MySql basis](http://www.vogella.com/tutorials/MySQL/article.html)
@@ -311,47 +285,37 @@ Do not solve the practice using JDBC, please just send us the sql scripts.
 6. Identify and Optimize all queries.
 7. Connect to MySQL using Java JDBC and perform the query you have developed in excercise 5.
 
-## Key Points:
-
-1,2,3,5,7
-
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have achieved.
 
 → [index](#index)
 
-# Topic 5: Spring Core & REST (3 days)
+# Topic 5: Spring (Core, Boot) and Swagger
 
 ## Reading:
-1. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+1. [Quick development guide](https://spring.io/guides/gs/rest-service/)
 
-2. [Quick development guide](https://spring.io/guides/gs/rest-service/)
+2. [Spring boot - rest services guide](http://spring.io/guides/tutorials/bookmarks/)
 
-3. [Spring boot - rest services guide](http://spring.io/guides/tutorials/bookmarks/)
-
-4. [REST API documentation](http://swagger.io/getting-started/)
+3. [REST API documentation](http://swagger.io/getting-started/)
   
 ## Practice: 
 
 1. Expose the shopping cart created in the topic 3.
-2. Write the swagger file for point 1.
-3. Create and document with swagger a REST API to register users. The API must provide: add, delete, update and find by name and find by nickname operations. Note that the username must be unique.
-
-## Key Points:
-
-3
+2. Write the swagger file.
+3. Create and document with swagger a REST API to register users. The API must provide: add, delete, update, find by name and find by nickname operations. Note that the username must be unique.
 
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have achieved.
 
 → [index](#index)
 
 # Your First Project Starts Now!
 
-# Final Project (2 days)
-Create a functional shopping cart (just REST api). The minimum features to be completed are:
+# Final Project
+Create a functional shopping cart (just REST api). Ideally, features completed are:
 
   - User registration and login.
   - Find products by category and name.
