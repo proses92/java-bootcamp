@@ -296,7 +296,7 @@ Commit your practice code, whatever you have accomplished.
 
 2. [Spring boot - rest services guide](http://spring.io/guides/tutorials/bookmarks/)
 
-3. [REST API documentation](http://swagger.io/getting-started/)
+3. [REST API documentation with Swagger](http://swagger.io/getting-started/)
   
 ## Practice: 
 
