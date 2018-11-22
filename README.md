@@ -35,7 +35,7 @@ The idea is to fork this project so everyone use the same folder structure for t
 
     * [Topic 4: SQL - MySql](#topic-4-sql---mysql)
     
-    * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-(core,-boot,-and-swagger))
+    * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-(core,-boot)-and-swagger)
 
 10. [Your First Project Starts Now!](#your-first-project-starts-now)
 
@@ -223,7 +223,7 @@ Commit your practice code, whatever you have accomplished.
 
 ## Reading:
 1. JUnit (https://junit.org/junit4/cookbook.html)
-2. [Optional] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
+2. [Optional, good to know its existence though] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
 
 ## Practice:
 
@@ -231,7 +231,7 @@ Commit your practice code, whatever you have accomplished.
 
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
@@ -285,7 +285,7 @@ Do not solve the practice using JDBC, please just send us the sql scripts.
 
 ## Commit:
 
-Commit your practice code, whatever you have achieved.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
@@ -306,7 +306,7 @@ Commit your practice code, whatever you have achieved.
 
 ## Commit:
 
-Commit your practice code, whatever you have achieved.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
