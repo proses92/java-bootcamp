@@ -61,6 +61,8 @@ Four weeks total, where we are going to mix reading, coding practice, chat discu
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will have a chat room to discuss all together.
 
+→ [index](#index)
+
 ## Performance Measurement
 
 When you feel you are good to go with a practice code, post a PR and ask tutors to review. This is to avoid getting to the very end of the training with no feedback. The idea is to keep things going dinamically, and being constantly in contact. 
