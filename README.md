@@ -35,7 +35,7 @@ The idea is to fork this project so everyone use the same folder structure for t
 
     * [Topic 4: SQL - MySql](#topic-4-sql---mysql)
     
-    * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-(core,-boot)-and-swagger)
+    * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-core-boot-and-swagger)
 
 10. [Your First Project Starts Now!](#your-first-project-starts-now)
 
