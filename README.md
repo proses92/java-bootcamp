@@ -89,7 +89,7 @@ Eclipse IDE for Java EE Developers Recommended](http://www.eclipse.org/downloads
 
 The bootcamp is organized in the following way:
 
-each bootcamper needs to read about the topics and jump into the coding excercises. Slack channel will be used to discuss with tutors and co-bootcampers about both theory and practice, and each on-site talk we are going through the outcome of Slack channel discussions, emphasizing about those topics that are causing more pain for all.
+each bootcamper needs to read about the topics and jump into the coding excercises. Slack channel will be used to discuss with tutors and co-bootcampers about both theory and practice, and each on-site talk we are going to go through the outcome of Slack channel discussions, emphasizing about those topics that are causing more pain for all.
 
 This slack account would be used for technical assistance: https://java-bootcamp-globers.slack.com
 
