@@ -27,15 +27,15 @@ The idea is to fork this project so everyone use the same folder structure for t
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts)
 
-    * [Topic 1: Maven](#topic-1-maven-1-day)
+    * [Topic 1: Maven](#topic-1-maven)
 
-    * [Topic 2: Services](#topic-2-services-2-days)
+    * [Topic 2: Services](#topic-2-services)
     
-    * [Topic 3: Unit Testing](#unit-testing)
+    * [Topic 3: Unit Testing](#topic-3-unit-testing)
 
-    * [Topic 4: SQL - MySql](#topic-4-sql---mysql-2-days)
+    * [Topic 4: SQL - MySql](#topic-4-sql---mysql)
     
-    * [Topic 5: Spring Core & REST](#topic-5-spring-core--rest-3-days)
+    * [Topic 5: Spring Core & REST](#topic-5-spring-(core,--boot,--and--swagger))
 
 10. [Your First Project Starts Now!](#your-first-project-starts-now)
 
@@ -191,7 +191,7 @@ Commit your practice code, whatever you have accomplished.
 
 ## Commit:
 
-Commit your practice code.
+Commit your practice code, whatever you have accomplished.
 
 → [index](#index)
 
