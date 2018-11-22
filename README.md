@@ -191,7 +191,7 @@ Commit your practice code, whatever you have accomplished.
 # Topic 2: Services
 
 ## Reading:
-1. [How to create services in Java](https://web.archive.org/web/20160414080344/http://www.makinggoodsoftware.com/2009/11/17/how-to-create-services-in-java/)
+1. [Introduction to Web Services](https://www.javatpoint.com/soap-web-services/)
 
 2. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 
