@@ -17,13 +17,11 @@ The idea is to fork this project so everyone use the same folder structure for t
 
 5. [Performance Measurement](#performance-measurement)
 
-6. [Handling advanced Developers](#handling-advanced-developers)
+6. [Materials](#materials)
 
-7. [Materials](#materials)
+7. [General Guidelines](#general-guidelines)
 
-8. [General Guidelines](#general-guidelines)
-
-9. [Learning Days](#learning-days)
+8. [Learning Days](#learning-days)
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts)
 
@@ -37,7 +35,7 @@ The idea is to fork this project so everyone use the same folder structure for t
     
     * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-core-boot-and-swagger)
 
-10. [Your First Project Starts Now!](#your-first-project-starts-now)
+9. [Your First Project Starts Now!](#your-first-project-starts-now)
 
 ## Objective
 
@@ -69,12 +67,6 @@ When you feel like you are good to go with a practice code, let tutors know and 
 
 → [index](#index)
 
-
-## Handling Advanced Developers
-
-Developers that move faster than average can go ahead and complete as much exercises as wanted. 
-
-→ [index](#index)
 
 ## Materials
 
