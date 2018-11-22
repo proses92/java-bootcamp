@@ -21,7 +21,9 @@ The idea is to fork this project so everyone use the same folder structure for t
 
 7. [General Guidelines](#general-guidelines)
 
-8. [Learning Days](#learning-days)
+8. [Proposed Test Application](#proposed-test-application)
+
+9. [Learning Days](#learning-days)
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts)
 
@@ -35,7 +37,7 @@ The idea is to fork this project so everyone use the same folder structure for t
     
     * [Topic 5: Spring (Core, Boot) and Swagger](#topic-5-spring-core-boot-and-swagger)
 
-9. [Your First Project Starts Now!](#your-first-project-starts-now)
+10. [Your First Project Starts Now!](#your-first-project-starts-now)
 
 ## Objective
 
@@ -106,11 +108,10 @@ Code needs to be clear and indented properly. You can adhere to this [eclipse co
 
 → [index](#index)
 
-## Proposed Test Applications
+## Proposed Test Application
 
 The test application will consist in a REST API for a functional shopping cart. It should include as much as you can on this feature list:
 
-  - User registration and login.
   - List products.
   - Find products by category and name.
   - Save cart before buy.
@@ -309,7 +310,6 @@ Commit your practice code, whatever you have accomplished.
 # Final Project
 Create a functional shopping cart (just REST api). Ideally, features completed are:
 
-  - User registration and login.
   - Find products by category and name.
   - Save Cart.
   - Buy products.
