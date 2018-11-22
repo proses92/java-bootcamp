@@ -202,6 +202,8 @@ Commit your practice code, whatever you have accomplished.
 
 2. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 
+3. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+
 ## Practice:
 
 1. Create a shopping cart API spec
